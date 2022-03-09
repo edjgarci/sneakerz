@@ -1,0 +1,47 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.para1{
+	color: black
+}
+.para1{
+	text-align: center
+}
+.para1{
+	font-size: 80px;
+}
+.para1{
+	text-shadow: 2px 2px white
+}
+
+#container {
+	position:absolute;
+	margin:0;
+	bottom:0;
+}
+.jordan {
+    display: block;
+    position: absolute;
+    border-right: 100%;
+    left: 633px;
+    top: 280px;
+    width: 480px;
+    height: 259px;
+}
+.playlist {
+    position: absolute;
+    left: 42px;
+    top: 100px;
+}
+.yeezy {
+    position: absolute;
+    left: 1202px;
+    top: 280px;
+    width: 480px;
+    height: 259px;
+}
+.discord{
+    position: absolute;
+    left: 777px;
+    top: 634px;
+}
